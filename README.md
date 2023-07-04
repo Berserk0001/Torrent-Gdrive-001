@@ -7,7 +7,7 @@
 Simple notebook to stream torrent files to Google Drive using Google Colab.
 
 Version 4.1 - 
-<a href="https://colab.research.google.com/github/r12habh/Google-Colab-Torrent-Downloader-To-Drive/blob/master/Torrent_To_Google_Drive_Downloader_v4_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/Berserk0001/Torrent-Gdrive-001/blob/master/Torrent_To_Google_Drive_Downloader_v4_1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <br><br><br>
 Version 3 - 
 <a href="https://colab.research.google.com/github/ethanaobrien/Torrent-To-Google-Drive-Downloader-v2/blob/master/Torrent_To_Google_Drive_Downloader_v3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
